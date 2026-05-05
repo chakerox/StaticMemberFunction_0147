@@ -39,3 +39,11 @@ void angka::isiData() {
     }
     cout << endl;
 }
+
+int main() {
+    angka belajar(3);
+    angka *ptrBelajar = new angka(5);
+    delete ptrBelajar;
+
+    return 0;
+}
