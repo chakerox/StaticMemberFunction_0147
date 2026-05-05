@@ -29,10 +29,10 @@ void Mahasiswa::printAll() {
 };
 
 int main() {
-    Mahasiswa mhs1("Khalid");
-    Mahasiswa mhs2("Rifqi");
-    Mahasiswa mhs3("Aisyah");
-    Mahasiswa mhs4("Hanifah");
+    Mahasiswa mhs1("lika");
+    Mahasiswa mhs2("Rizky");
+    Mahasiswa mhs3("Dina");
+    Mahasiswa mhs4("Han");
 
     mhs1.printAll();
     mhs2.printAll();
